@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amor Ali
 - 👀 I’m interested in Programming/Dev, Gaming, VFX, Linux, and more :) 
-- 🌱 I’m currently learning Neovim, Gtk4, Flutter
+- 🌱 I’m currently expermenting in Go, and using Spring professionally
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
